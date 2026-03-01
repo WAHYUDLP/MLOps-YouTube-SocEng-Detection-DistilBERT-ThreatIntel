@@ -1,0 +1,16 @@
+# NLP & Machine Learning
+transformers
+torch
+pandas
+scikit-learn
+
+# MLOps & Tracking
+mlflow
+
+# API & Networking (YouTube Data API & VirusTotal)
+google-api-python-client
+requests
+
+# Deployment Service
+fastapi
+uvicorn
