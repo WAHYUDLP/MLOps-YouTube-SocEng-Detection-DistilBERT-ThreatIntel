@@ -49,6 +49,8 @@ Struktur repositori ini diorganisasikan mengikuti standar industri (**Cookiecutt
 ├── requirements.txt   # Daftar dependensi environment proyek
 └── setup.cfg          # Konfigurasi tambahan untuk code linter (seperti flake8)
 
+```
+
 ## 📄 Cara Menjalankan Lingkungan Pengembangan (Codespaces)
 
 Proyek ini dirancang agar dapat dijalankan secara instan menggunakan **GitHub Codespaces** tanpa memerlukan instalasi manual di laptop (*zero-setup environment*). Seluruh dependensi MLOps telah dikonfigurasi menggunakan Dev Container agar konsisten bagi siapa pun yang mengakses repositori ini.
